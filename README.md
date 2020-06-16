@@ -10,15 +10,15 @@ These files are intended to function as a multi-functional tipbot for Verge Curr
 * A mySQL database
 * The Verge wallet w/ RPC enabled.
 
-"Meus passos"
-"pip3 install discord.py"
-"pip3 install pymysql"
-"pip3 install requests"
-"Criar banco de dados MySQL"
-"Configurar no bot"
-"instalar as Carteiras para o bot"
-"configurar no bot"
-"python3 bot.py"
+*"Meus passos"
+*"pip3 install discord.py"
+*"pip3 install pymysql"
+*"pip3 install requests"
+*"Criar banco de dados MySQL"
+*"Configurar no bot"
+*"instalar as Carteiras para o bot"
+*"configurar no bot"
+*"python3 bot.py"
 
 # Functions
 * Display general wallet information
