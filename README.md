@@ -10,6 +10,8 @@ These files are intended to function as a multi-functional tipbot for Verge Curr
 * A mySQL database
 * The Verge wallet w/ RPC enabled.
 
+"Meus passos"
+
 # Functions
 * Display general wallet information
 * Display individual user balances and amount staked
